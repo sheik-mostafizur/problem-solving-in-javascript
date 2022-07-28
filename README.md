@@ -10,4 +10,6 @@ Lecture 004. Write a function that any products price rate calculate
 
 Lecture 005. Write a function that takes a value as argument
 
-Lecture 006.Accessing object properties one
+Lecture 006. Accessing object properties one
+
+Lecture 007. Accessing object properties two
